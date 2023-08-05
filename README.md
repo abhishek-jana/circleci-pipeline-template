@@ -1,4 +1,4 @@
-# CircleCi CICD [![CircleCI](https://dl.circleci.com/status-badge/img/gh/ketangangal/deployment-using-circleci/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ketangangal/deployment-using-circleci/tree/main)
+# CircleCi CICD [![CircleCI](https://dl.circleci.com/status-badge/img/gh/abhishek-jana/circleci-pipeline-template/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/abhishek-jana/circleci-pipeline-template/tree/main)
 
 CircleCI is a continuous integration and continuous delivery platform that can be used to implement DevOps practices. The company was founded in September 2011 and has raised $315 million in venture capital funding as of 2021, at a valuation of $1.7 billion. CircleCI is one of the world's most popular CI/CD platforms.
 
